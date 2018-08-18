@@ -4,9 +4,10 @@
   "description": "creating a liri app",
   "main": "liri.js",
   "dependencies": {
-    "request": "^2.75.0",
+    "request": "^2.88.0",
+    "response": "^0.18.0",
     "spotify": "^0.3.0",
-    "twitter": "^1.4.0"
+    "twitter": "^1.7.1"
   },
   "devDependencies": {},
   "scripts": {
@@ -14,12 +15,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/StefanieDing/liri-node-app.git"
+    "url": "https://github.com/kylerobinson7398/LIRI_Node_App"
   },
-  "author": "Stefanie Ding",
+  "author": "Kyle Robinson",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/StefanieDing/liri-node-app/issues"
+    "url": "https://github.com/kylerobinson7398/LIRI_Node_App/issues"
   },
-  "homepage": "https://github.com/StefanieDing/liri-node-app#readme"
+  "homepage": "https://github.com/kylerobinson7398/LIRI_Node_App/blob/master/README.md"
 }
